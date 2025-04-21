@@ -7,7 +7,7 @@ with open("Readme.md","r",encoding="utf-8") as f:
 
     REPO_NAME="Text-Summarizer-NLP"
     AUTHOR_USER_NAME="Anurag Singh"
-    SRC_REPO="TextSummarizer"
+    SRC_REPO="textSummarizer"
 
 
     setuptools.setup(
